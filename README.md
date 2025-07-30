@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![NutriTrack Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![NutriTrack Logo](app/src/main/res/drawable/ic_launcher.png)
 
 **A comprehensive Android nutrition tracking application with AI-powered coaching and professional HEIFA scoring system**
 
