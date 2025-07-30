@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriTrack</string>
+    
+    <!-- General -->
+    <string name="login">Connexion</string>
+    <string name="signup">Inscription</string>
+    <string name="cancel">Annuler</string>
+    <string name="apply">Appliquer</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Modifier</string>
+    <string name="next">Suivant</string>
+    <string name="back">Retour</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">NutriTrack</string>
+    <string name="welcome_tagline">Votre compagnon nutritionnel personnel</string>
+    <string name="disclaimer">Avertissement</string>
+    <string name="disclaimer_text">NutriTrack fournit des informations générales sur la santé et la nutrition à des fins éducatives uniquement.</string>
+    <string name="about_nutritrack">À propos de NutriTrack</string>
+    <string name="about_dietitian">Si vous souhaitez consulter un diététicien accrédité (APD), veuillez visiter la clinique de nutrition/diététique de Monash</string>
+    <string name="visit_monash">Visiter la clinique de nutrition Monash</string>
+    
+    <!-- Settings -->
+    <string name="settings">Paramètres</string>
+    <string name="language">Langue</string>
+    <string name="select_language">Sélectionner la langue</string>
+    <string name="notification">Notifications</string>
+    <string name="theme">Thème</string>
+    <string name="about">À propos</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="terms_of_service">Conditions d\'utilisation</string>
+    <string name="logout">Déconnexion</string>
+    
+    <!-- Settings Screen Additional -->
+    <string name="profile_information">Informations du profil</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="not_available">Non disponible</string>
+    <string name="change_password">Changer le mot de passe</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="password_requirements">Exigences du mot de passe:</string>
+    <string name="req_min_length">Au moins 8 caractères</string>
+    <string name="req_uppercase">Au moins une lettre majuscule</string>
+    <string name="req_number">Au moins un chiffre</string>
+    <string name="req_special">Au moins un caractère spécial</string>
+    <string name="req_match">Les mots de passe correspondent</string>
+    <string name="account_details">Détails du compte</string>
+    <string name="user_id">ID utilisateur</string>
+    <string name="gender">Genre</string>
+    <string name="not_specified">Non spécifié</string>
+    <string name="save_changes">Enregistrer les modifications</string>
+    <string name="account">Compte</string>
+    <string name="clinician_view">Vue clinicien</string>
+    <string name="about_nutritrack_desc">NutriTrack vous aide à surveiller et à améliorer vos habitudes alimentaires grâce à des informations et des recommandations personnalisées.</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="clinician_login">Connexion clinicien</string>
+    <string name="clinician_access_key">Entrez la clé d\'accès clinicien pour continuer:</string>
+    <string name="access_key">Clé d\'accès</string>
+    <string name="invalid_key">Clé d\'accès invalide. Veuillez réessayer.</string>
+    
+    <!-- NutriCoach Screen -->
+    <string name="nutricoach_title">NutriCoach</string>
+    <string name="enter_fruit_name">Entrez un nom de fruit</string>
+    <string name="search">Rechercher</string>
+    <string name="try_again">Réessayer</string>
+    <string name="network_error">⚠️ Erreur réseau</string>
+    <string name="search_fruit_placeholder">Recherchez un fruit pour voir ses valeurs nutritionnelles et améliorer votre alimentation!</string>
+    <string name="optimal_fruit_congrats">Bravo! Votre consommation de fruits est optimale.</string>
+    <string name="optimal_fruit_continue">Continuez à profiter d\'une variété de fruits pour une alimentation saine!</string>
+    <string name="ai_nutrition_tips">Conseils nutritionnels IA</string>
+    <string name="view_tips_history">Voir l\'historique des conseils</string>
+    <string name="generate_tip_placeholder">Générez un conseil personnalisé pour améliorer votre nutrition!</string>
+    <string name="generate_new_tip">Générer un nouveau conseil</string>
+    <string name="tips_history_title">Votre historique de conseils nutritionnels</string>
+    <string name="no_tips_saved">Aucun conseil enregistré. Générez votre premier conseil!</string>
+    <string name="category_label">Catégorie: %1$s</string>
+    <string name="close">Fermer</string>
+    
+    <!-- Fruit Info Card -->
+    <string name="fruit_family">Famille: %1$s | Genre: %2$s</string>
+    <string name="nutrition_calories">Calories</string>
+    <string name="nutrition_carbs">Glucides</string>
+    <string name="nutrition_fiber">Fibres</string>
+    <string name="nutrition_sugar">Sucre</string>
+    <string name="nutrition_protein">Protéines</string>
+    <string name="nutrition_fat">Lipides</string>
+    <string name="calories_unit">%1$s kcal</string>
+    <string name="grams_unit">%1$sg</string>
+    
+    <!-- AI Prompts -->
+    <string name="ai_instructions">Veuillez fournir une analyse nutritionnelle basée sur les informations suivantes</string>
+    <string name="nutrition_analysis">Analyse nutritionnelle</string>
+    <string name="food_suggestion">Suggestions alimentaires</string>
+    
+    <!-- HomeScreen -->
+    <string name="loading_nutrition_data">Chargement de vos données nutritionnelles…</string>
+    <string name="error_unknown">Une erreur inconnue s\'est produite</string>
+    <string name="action_try_again">Réessayer</string>
+    <string name="greeting_hello">Bonjour, %1$s</string>
+    <string name="questionnaire_completed">Vous avez déjà rempli votre questionnaire sur la consommation alimentaire, mais vous pouvez modifier les détails ici:</string>
+    <string name="my_score">Mon score</string>
+    <string name="see_all_scores">Voir tous les scores</string>
+    <string name="your_food_quality_score">Votre score de qualité alimentaire</string>
+    <string name="what_is_food_quality_score">Qu\'est-ce que le score de qualité alimentaire?</string>
+    <string name="food_score_explanation_1">Votre score de qualité alimentaire fournit un aperçu de la façon dont votre schéma alimentaire s\'aligne sur les directives alimentaires établies, vous aidant à identifier vos points forts et vos opportunités d\'amélioration dans votre alimentation.</string>
+    <string name="food_score_explanation_2">Cette mesure personnalisée prend en compte divers groupes d\'aliments, vous donnant une vue complète de l\'ensemble de votre alimentation.</string>
+    <string name="error_load_nutrition_data">Impossible de charger les données nutritionnelles. Veuillez réessayer plus tard.</string>
+    <string name="error_occurred">Une erreur s\'est produite: %1$s</string>
+    <string name="score_format">%1$d/100</string>
+    <string name="default_user">Utilisateur</string>
+    <string name="gender_male">Homme</string>
+    <string name="home">Accueil</string>
+    <string name="insights">Analyses</string>
+    <string name="nutricoach">NutriCoach</string>
+    
+    <!-- QuestionnaireScreen -->
+    <string name="questionnaire_title">Questionnaire sur la consommation alimentaire</string>
+    <string name="food_categories">Catégories d\'aliments</string>
+    <string name="food_categories_hint">Sélectionnez les catégories d\'aliments que vous consommez habituellement:</string>
+    <string name="food_category_fruits">Fruits</string>
+    <string name="food_category_vegetables">Légumes</string>
+    <string name="food_category_grains">Céréales</string>
+    <string name="food_category_red_meat">Viande rouge</string>
+    <string name="food_category_seafood">Fruits de mer</string>
+    <string name="food_category_poultry">Volaille</string>
+    <string name="food_category_fish">Poisson</string>
+    <string name="food_category_eggs">Œufs</string>
+    <string name="food_category_nuts_seeds">Noix/Graines</string>
+    <string name="persona_selection">Sélection de persona</string>
+    <string name="persona_selection_hint">Sélectionnez le persona qui décrit le mieux vos habitudes alimentaires:</string>
+    <string name="persona_select_prompt">Sélectionnez votre persona</string>
+    <string name="persona_health_devotee">Dévot de la santé</string>
+    <string name="persona_mindful_eater">Mangeur attentif</string>
+    <string name="persona_wellness_striver">Aspirant au bien-être</string>
+    <string name="persona_balance_seeker">Chercheur d\'équilibre</string>
+    <string name="persona_health_procrastinator">Procrastinateur de santé</string>
+    <string name="persona_food_carefree">Insouciant alimentaire</string>
+    <string name="persona_health_devotee_desc">Je suis passionné par l\'alimentation saine et la santé joue un rôle important dans ma vie. J\'utilise les réseaux sociaux pour suivre des personnalités au mode de vie actif ou obtenir de nouvelles idées de recettes/exercices. Je peux même acheter des superaliments ou suivre un type particulier de régime. J\'aime penser que je suis très sain.</string>
+    <string name="persona_mindful_eater_desc">Je suis soucieux de ma santé et être en bonne santé et manger sainement est important pour moi. Bien que la santé signifie différentes choses pour différentes personnes, je prends des décisions conscientes concernant mon alimentation basées sur ce que je crois être sain. Je recherche de nouvelles recettes et des informations sur l\'alimentation saine sur les réseaux sociaux.</string>
+    <string name="persona_wellness_striver_desc">J\'aspire à être en bonne santé (mais je lutte parfois). Manger sainement est un travail difficile! J\'ai essayé d\'améliorer mon alimentation, mais je trouve toujours des choses qui rendent difficile de maintenir les changements. Parfois, je remarque des idées de recettes ou des astuces pour manger sainement, et si cela semble assez facile, je l\'essaie.</string>
+    <string name="persona_balance_seeker_desc">J\'essaie de vivre un mode de vie équilibré, et je pense que tous les aliments sont bons avec modération. Je ne devrais pas me sentir coupable de manger un morceau de gâteau de temps en temps. Je tire toutes sortes d\'inspirations des réseaux sociaux comme découvrir de nouveaux restaurants, des recettes amusantes et parfois des conseils pour manger sainement.</string>
+    <string name="persona_health_procrastinator_desc">J\'envisage de manger sainement mais ce n\'est pas une priorité pour moi en ce moment. Je connais les bases de ce que signifie être en bonne santé, mais cela ne me semble pas pertinent pour le moment. J\'ai pris quelques mesures pour être en meilleure santé, mais je ne suis pas motivé pour en faire une priorité élevée car j\'ai trop d\'autres choses en cours dans ma vie.</string>
+    <string name="persona_food_carefree_desc">Je ne me soucie pas de manger sainement. Je n\'en vois pas vraiment l\'intérêt et je n\'y pense pas. Je ne remarque pas vraiment les conseils pour manger sainement ou les recettes et je me fiche de ce que je mange.</string>
+    <string name="best_fitting_persona">Persona le plus adapté</string>
+    <string name="show_options">Afficher les options</string>
+    <string name="timings">Horaires</string>
+    <string name="meal_time_question">À quelle heure de la journée prenez-vous habituellement votre repas le plus important?</string>
+    <string name="sleep_time_question">À quelle heure de la journée vous endormez-vous habituellement la nuit?</string>
+    <string name="wake_time_question">À quelle heure de la journée vous réveillez-vous habituellement le matin?</string>
+    <string name="select_time">Sélectionner l\'heure</string>
+    <string name="time_validation_error">Veuillez vérifier vos heures de repas et de sommeil. Elles pourraient être en conflit.</string>
+    <string name="select_persona">Sélectionner ce persona</string>
+    <string name="dismiss">Fermer</string>
+    <string name="save_with_icon">Enregistrer</string>
+    
+    <!-- InsightsScreen -->
+    <string name="insights_title">Analyses</string>
+    <string name="loading_insights">Chargement de vos analyses nutritionnelles…</string>
+    <string name="food_quality_score">Votre score de qualité alimentaire</string>
+    <string name="score_out_of_100">sur 100</string>
+    <string name="quality_poor">Médiocre</string>
+    <string name="quality_fair">Passable</string>
+    <string name="quality_good">Bon</string>
+    <string name="quality_excellent">Excellent</string>
+    <string name="diet_quality_message">La qualité de votre alimentation est %1$s. %2$s</string>
+    <string name="category_breakdown">Répartition par catégorie</string>
+    <string name="category_vegetables">Légumes</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_grains">Céréales &amp; Grains</string>
+    <string name="category_whole_grains">Céréales complètes</string>
+    <string name="category_dairy">Produits laitiers</string>
+    <string name="category_meat">Viande &amp; Alternatives</string>
+    <string name="category_water">Eau</string>
+    <string name="category_unsaturated_fats">Graisses insaturées</string>
+    <string name="category_sodium">Sodium</string>
+    <string name="category_sugar">Sucre</string>
+    <string name="category_alcohol">Alcool</string>
+    <string name="category_discretionary">Aliments discrétionnaires</string>
+    <string name="share_score">Partager mon score</string>
+    <string name="share_score_title">Partager votre score HEIFA</string>
+    <string name="share_score_template">Bonjour, je viens d\'obtenir un score HEIFA de %1$d sur 100 avec l\'application NutriTrack! La qualité de mon alimentation est actuellement évaluée comme %2$s.</string>
+    <string name="improve_my_diet">Améliorer mon alimentation !</string>
+    
+    <!-- Quality descriptions -->
+    <string name="quality_poor_desc">Il y a une marge d\'amélioration significative dans vos choix alimentaires.</string>
+    <string name="quality_fair_desc">Votre alimentation comporte certains éléments sains, mais pourrait être améliorée dans certains domaines.</string>
+    <string name="quality_good_desc">Vous faites des choix sains avec une marge d\'amélioration.</string>
+    <string name="quality_excellent_desc">Vous faites d\'excellents choix alimentaires qui favorisent une santé optimale.</string>
+    
+    <!-- ClinicianScreen -->
+    <string name="clinician_dashboard">Tableau de bord du clinicien</string>
+    <string name="welcome_back">Bienvenue, Clinicien</string>
+    <string name="heifa_score_averages">Moyennes des scores HEIFA</string>
+    <string name="view_details">Voir les détails</string>
+    <string name="average_heifa_score">Score HEIFA moyen</string>
+    <string name="loading_score">Chargement du score...</string>
+    <string name="ai_consultant">Consultant IA</string>
+    <string name="about_ai_consultant">À propos du Consultant IA</string>
+    <string name="ai_consultant_info">Ce consultant IA est alimenté par Gemini 1.5 Flash et est conçu pour répondre uniquement aux questions liées à la nutrition. Il peut fournir des informations sur les scores HEIFA, les habitudes alimentaires et des recommandations nutritionnelles basées sur les données des patients disponibles dans le système. Pour des conseils médicaux ou des diagnostics spécifiques aux patients, veuillez consulter des professionnels de la santé appropriés.</string>
+    <string name="got_it">Compris</string>
+    <string name="ask_about_heifa">Poser des questions sur les scores HEIFA</string>
+    <string name="only_nutrition_questions">Seules les questions liées à la nutrition recevront une réponse</string>
+    <string name="ai_assistant">Assistant IA</string>
+    <string name="typing">En train d\'écrire</string>
+    <string name="suggested_questions">Questions suggérées</string>
+    <string name="ai_powered_analysis">Analyse propulsée par l\'IA</string>
+    <string name="discover_patterns">Découvrir des modèles de données</string>
+    <string name="analyzing_data">Analyse des données...</string>
+    <string name="button_pressed">Bouton appuyé. En attente du début de l\'analyse...</string>
+    <string name="analysis_error">Erreur d\'analyse</string>
+    <string name="ai_analysis_insights">Analyses de l\'IA</string>
+    <string name="insights_found">%1$d analyses trouvées</string>
+    <string name="no_insights_available">Aucune analyse disponible</string>
+    <string name="no_insights_description">Utilisez la fonction d\'analyse propulsée par l\'IA pour générer des informations nutritionnelles à partir des données des patients.</string>
+    <string name="view_details_button">Voir les détails</string>
+    <string name="new_insight">Nouvelle analyse</string>
+    <string name="new_label">Nouveau</string>
+    <string name="data_unavailable">Données indisponibles</string>
+    <string name="data_unavailable_message">Les données de score HEIFA ne sont pas disponibles. Veuillez vous assurer que les données sont correctement chargées.</string>
+    <string name="heifa_score_analysis">Analyse des scores HEIFA</string>
+    <string name="score_distribution">Distribution des scores</string>
+    <string name="score_distribution_desc">L\'analyse de la distribution des scores montre que les scores HEIFA moyens des hommes ont tendance à être inférieurs à ceux des femmes dans la plupart des catégories.</string>
+    <string name="component_analysis">Analyse des composants</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
+    <string name="analysis">Analyse</string>
+    <string name="based_on_data">Basé sur les données de %1$d patients</string>
+    <string name="recommendations">Recommandations</string>
+    <string name="no_recommendations">Aucune recommandation disponible</string>
+</resources> 

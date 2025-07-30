@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriTrack</string>
+    
+    <!-- General -->
+    <string name="login">ログイン</string>
+    <string name="signup">新規登録</string>
+    <string name="cancel">キャンセル</string>
+    <string name="apply">適用</string>
+    <string name="save">保存</string>
+    <string name="delete">削除</string>
+    <string name="edit">編集</string>
+    <string name="next">次へ</string>
+    <string name="back">戻る</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">NutriTrack</string>
+    <string name="welcome_tagline">あなたの栄養パートナー</string>
+    <string name="disclaimer">免責事項</string>
+    <string name="disclaimer_text">NutriTrackは教育目的のみのための一般的な健康と栄養情報を提供します。</string>
+    <string name="about_nutritrack">NutriTrackについて</string>
+    <string name="about_dietitian">認定栄養士(APD)に相談したい場合は、モナッシュ栄養/食事療法クリニックをご訪問ください</string>
+    <string name="visit_monash">モナッシュ栄養クリニックを訪問する</string>
+    
+    <!-- Settings -->
+    <string name="settings">設定</string>
+    <string name="language">言語</string>
+    <string name="select_language">言語を選択</string>
+    <string name="notification">通知</string>
+    <string name="theme">テーマ</string>
+    <string name="about">情報</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="terms_of_service">利用規約</string>
+    <string name="logout">ログアウト</string>
+    
+    <!-- Settings Screen Additional -->
+    <string name="profile_information">プロフィール情報</string>
+    <string name="username">ユーザー名</string>
+    <string name="phone_number">電話番号</string>
+    <string name="not_available">利用不可</string>
+    <string name="change_password">パスワードを変更</string>
+    <string name="new_password">新しいパスワード</string>
+    <string name="confirm_password">パスワードを確認</string>
+    <string name="password_requirements">パスワード要件：</string>
+    <string name="req_min_length">8文字以上</string>
+    <string name="req_uppercase">大文字を1文字以上</string>
+    <string name="req_number">数字を1文字以上</string>
+    <string name="req_special">特殊文字を1文字以上</string>
+    <string name="req_match">パスワードが一致</string>
+    <string name="account_details">アカウント詳細</string>
+    <string name="user_id">ユーザーID</string>
+    <string name="gender">性別</string>
+    <string name="not_specified">指定なし</string>
+    <string name="save_changes">変更を保存</string>
+    <string name="account">アカウント</string>
+    <string name="clinician_view">臨床医ビュー</string>
+    <string name="about_nutritrack_desc">NutriTrackはパーソナライズされた洞察と推奨を通じて食事習慣の監視と改善をサポートします。</string>
+    <string name="version">バージョン 1.0.0</string>
+    <string name="clinician_login">臨床医ログイン</string>
+    <string name="clinician_access_key">臨床医アクセスキーを入力してください：</string>
+    <string name="access_key">アクセスキー</string>
+    <string name="invalid_key">無効なアクセスキーです。もう一度お試しください。</string>
+    
+    <!-- NutriCoach Screen -->
+    <string name="nutricoach_title">栄養コーチ</string>
+    <string name="enter_fruit_name">果物の名前を入力</string>
+    <string name="search">検索</string>
+    <string name="try_again">再試行</string>
+    <string name="network_error">⚠️ ネットワークエラー</string>
+    <string name="search_fruit_placeholder">果物を検索して栄養成分を確認し、食生活を改善しましょう！</string>
+    <string name="optimal_fruit_congrats">素晴らしい！あなたの果物摂取量は最適です。</string>
+    <string name="optimal_fruit_continue">健康的な食生活のために、さまざまな果物を摂取し続けましょう！</string>
+    <string name="ai_nutrition_tips">AI栄養アドバイス</string>
+    <string name="view_tips_history">アドバイス履歴を表示</string>
+    <string name="generate_tip_placeholder">あなたの栄養改善に役立つパーソナライズされたアドバイスを生成しましょう！</string>
+    <string name="generate_new_tip">新しいアドバイスを生成</string>
+    <string name="tips_history_title">あなたの栄養アドバイス履歴</string>
+    <string name="no_tips_saved">保存されたアドバイスはありません。最初のアドバイスを生成してください！</string>
+    <string name="category_label">カテゴリー: %1$s</string>
+    <string name="close">閉じる</string>
+    
+    <!-- Fruit Info Card -->
+    <string name="fruit_family">科: %1$s | 属: %2$s</string>
+    <string name="nutrition_calories">カロリー</string>
+    <string name="nutrition_carbs">炭水化物</string>
+    <string name="nutrition_fiber">食物繊維</string>
+    <string name="nutrition_sugar">糖質</string>
+    <string name="nutrition_protein">タンパク質</string>
+    <string name="nutrition_fat">脂質</string>
+    <string name="calories_unit">%1$s kcal</string>
+    <string name="grams_unit">%1$sg</string>
+    
+    <!-- AI Prompts -->
+    <string name="ai_instructions">次の情報に基づいて栄養分析を提供してください</string>
+    <string name="nutrition_analysis">栄養分析</string>
+    <string name="food_suggestion">食品提案</string>
+    
+    <!-- HomeScreen -->
+    <string name="loading_nutrition_data">栄養データを読み込んでいます…</string>
+    <string name="error_unknown">不明なエラーが発生しました</string>
+    <string name="action_try_again">再試行</string>
+    <string name="greeting_hello">こんにちは、%1$s</string>
+    <string name="questionnaire_completed">食品摂取アンケートは既に記入済みですが、ここで詳細を変更できます：</string>
+    <string name="my_score">私のスコア</string>
+    <string name="see_all_scores">すべてのスコアを見る</string>
+    <string name="your_food_quality_score">あなたの食品品質スコア</string>
+    <string name="what_is_food_quality_score">食品品質スコアとは？</string>
+    <string name="food_score_explanation_1">あなたの食品品質スコアは、あなたの食事パターンが確立された食品ガイドラインにどの程度適合しているかのスナップショットを提供し、食事におけるあなたの強みと改善の機会を特定するのに役立ちます。</string>
+    <string name="food_score_explanation_2">パーソナライズされた測定は様々な食品グループを考慮し、あなたの全体的な食事の包括的な見方を提供します。</string>
+    <string name="error_load_nutrition_data">栄養データを読み込めませんでした。後でもう一度お試しください。</string>
+    <string name="error_occurred">エラーが発生しました：%1$s</string>
+    <string name="score_format">%1$d/100</string>
+    <string name="default_user">ユーザー</string>
+    <string name="gender_male">男性</string>
+    <string name="home">ホーム</string>
+    <string name="insights">インサイト</string>
+    <string name="nutricoach">栄養コーチ</string>
+    
+    <!-- QuestionnaireScreen -->
+    <string name="questionnaire_title">食品摂取アンケート</string>
+    <string name="food_categories">食品カテゴリー</string>
+    <string name="food_categories_hint">通常摂取する食品カテゴリーを選択してください：</string>
+    <string name="food_category_fruits">果物</string>
+    <string name="food_category_vegetables">野菜</string>
+    <string name="food_category_grains">穀物</string>
+    <string name="food_category_red_meat">赤身肉</string>
+    <string name="food_category_seafood">シーフード</string>
+    <string name="food_category_poultry">家禽</string>
+    <string name="food_category_fish">魚</string>
+    <string name="food_category_eggs">卵</string>
+    <string name="food_category_nuts_seeds">ナッツ/種子</string>
+    <string name="persona_selection">ペルソナ選択</string>
+    <string name="persona_selection_hint">あなたの食習慣を最もよく表すペルソナを選択してください：</string>
+    <string name="persona_select_prompt">ペルソナを選択</string>
+    <string name="persona_health_devotee">健康信者</string>
+    <string name="persona_mindful_eater">意識的な食事者</string>
+    <string name="persona_wellness_striver">健康志向者</string>
+    <string name="persona_balance_seeker">バランス追求者</string>
+    <string name="persona_health_procrastinator">健康先延ばし者</string>
+    <string name="persona_food_carefree">食事無頓着者</string>
+    <string name="persona_health_devotee_desc">私は健康的な食事に情熱を持っており、健康は私の生活の大きな部分を占めています。アクティブなライフスタイルの人々をフォローしたり、新しいレシピやエクササイズのアイデアを得るためにソーシャルメディアを使用しています。スーパーフードを購入したり、特定の食事法に従ったりするかもしれません。私は超健康的だと思いたいです。</string>
+    <string name="persona_mindful_eater_desc">私は健康意識が高く、健康でいること、健康的な食事をすることは私にとって重要です。健康は人によって意味が異なりますが、私は健康の意味だと信じるものに基づいて、食事に関する意識的なライフスタイルの決断をします。ソーシャルメディアで新しいレシピや健康的な食事情報を探しています。</string>
+    <string name="persona_wellness_striver_desc">私は健康でありたいと願っています（ただし時々苦労します）。健康的な食事は大変な作業です！食事を改善しようとしてきましたが、変化を維持することを難しくするものが常に見つかります。レシピのアイデアや健康的な食事のヒントに気づくことがあり、十分に簡単そうであれば試してみます。</string>
+    <string name="persona_balance_seeker_desc">バランスの取れたライフスタイルを送ろうとしており、適度であればすべての食品は大丈夫だと思います。時々ケーキを食べることに罪悪感を感じるべきではありません。新しいレストランを見つけたり、楽しいレシピを見つけたり、時には健康的な食事のヒントを得るなど、ソーシャルメディアからさまざまなインスピレーションを得ています。</string>
+    <string name="persona_health_procrastinator_desc">健康的な食事を考えていますが、今はそれが優先事項ではありません。健康であることの基本は知っていますが、今の私には関係ないように思えます。より健康になるためにいくつかの措置を講じましたが、生活にはあまりにも多くのことがあるため、それを高い優先事項にするモチベーションがありません。</string>
+    <string name="persona_food_carefree_desc">私は健康的な食事について気にしていません。その意味が本当にわからず、考えもしません。健康的な食事のヒントやレシピにも本当に注目せず、何を食べるかも気にしません。</string>
+    <string name="best_fitting_persona">最適なペルソナ</string>
+    <string name="show_options">オプションを表示</string>
+    <string name="timings">タイミング</string>
+    <string name="meal_time_question">通常、一日のうちどの時間帯に最も大きな食事をとりますか？</string>
+    <string name="sleep_time_question">通常、夜どの時間帯に就寝しますか？</string>
+    <string name="wake_time_question">通常、朝どの時間帯に起床しますか？</string>
+    <string name="select_time">時間を選択</string>
+    <string name="time_validation_error">食事と睡眠の時間を確認してください。競合がある可能性があります。</string>
+    <string name="select_persona">このペルソナを選択</string>
+    <string name="dismiss">閉じる</string>
+    <string name="save_with_icon">保存</string>
+    
+    <!-- InsightsScreen -->
+    <string name="insights_title">インサイト</string>
+    <string name="loading_insights">栄養インサイトを読み込んでいます…</string>
+    <string name="food_quality_score">あなたの食品品質スコア</string>
+    <string name="score_out_of_100">100点中</string>
+    <string name="quality_poor">不良</string>
+    <string name="quality_fair">普通</string>
+    <string name="quality_good">良好</string>
+    <string name="quality_excellent">優秀</string>
+    <string name="diet_quality_message">あなたの食事の質は%1$sです。%2$s</string>
+    <string name="category_breakdown">カテゴリー別内訳</string>
+    <string name="category_vegetables">野菜</string>
+    <string name="category_fruits">果物</string>
+    <string name="category_grains">穀物＆シリアル</string>
+    <string name="category_whole_grains">全粒穀物</string>
+    <string name="category_dairy">乳製品</string>
+    <string name="category_meat">肉類＆代替品</string>
+    <string name="category_water">水</string>
+    <string name="category_unsaturated_fats">不飽和脂肪</string>
+    <string name="category_sodium">ナトリウム</string>
+    <string name="category_sugar">砂糖</string>
+    <string name="category_alcohol">アルコール</string>
+    <string name="category_discretionary">任意の食品</string>
+    <string name="share_score">スコアを共有</string>
+    <string name="share_score_title">HEIFAスコアを共有</string>
+    <string name="share_score_template">こんにちは、NutriTrackアプリで100点中%1$dのHEIFAスコアを獲得しました！私の食事の質は現在%2$sと評価されています。</string>
+    <string name="improve_my_diet">食事を改善する！</string>
+    
+    <!-- Quality descriptions -->
+    <string name="quality_poor_desc">食事選択には大幅な改善の余地があります。</string>
+    <string name="quality_fair_desc">あなたの食事には健康的な要素がいくつかありますが、特定の分野で改善の余地があります。</string>
+    <string name="quality_good_desc">あなたは健康的な選択をしていますが、改善の余地があります。</string>
+    <string name="quality_excellent_desc">あなたは最適な健康をサポートする優れた食事選択をしています。</string>
+    
+    <!-- ClinicianScreen -->
+    <string name="clinician_dashboard">臨床医ダッシュボード</string>
+    <string name="welcome_back">お帰りなさい、臨床医の方</string>
+    <string name="heifa_score_averages">HEIFAスコア平均</string>
+    <string name="view_details">詳細を表示</string>
+    <string name="average_heifa_score">平均HEIFAスコア</string>
+    <string name="loading_score">スコア読込中...</string>
+    <string name="ai_consultant">AIコンサルタント</string>
+    <string name="about_ai_consultant">AIコンサルタントについて</string>
+    <string name="ai_consultant_info">このAIコンサルタントはGemini 1.5 Flashを搭載しており、栄養関連の質問にのみ回答するように設計されています。システムで利用可能な患者データに基づいて、HEIFAスコア、食事パターン、栄養推奨に関する洞察を提供できます。医学的アドバイスや特定の患者の診断については、適切な医療専門家に相談してください。</string>
+    <string name="got_it">理解しました</string>
+    <string name="ask_about_heifa">HEIFAスコアについて質問する</string>
+    <string name="only_nutrition_questions">栄養関連の質問のみ回答されます</string>
+    <string name="ai_assistant">AIアシスタント</string>
+    <string name="typing">入力中</string>
+    <string name="suggested_questions">推奨質問</string>
+    <string name="ai_powered_analysis">AI搭載分析</string>
+    <string name="discover_patterns">データパターンを発見</string>
+    <string name="analyzing_data">データ分析中...</string>
+    <string name="button_pressed">ボタンが押されました。分析の開始を待っています...</string>
+    <string name="analysis_error">分析エラー</string>
+    <string name="ai_analysis_insights">AI分析インサイト</string>
+    <string name="insights_found">%1$dのインサイトが見つかりました</string>
+    <string name="no_insights_available">インサイトがありません</string>
+    <string name="no_insights_description">患者データから栄養インサイトを生成するには、AI搭載分析機能を使用してください。</string>
+    <string name="view_details_button">詳細を表示</string>
+    <string name="new_insight">新しいインサイト</string>
+    <string name="new_label">新着</string>
+    <string name="data_unavailable">データ利用不可</string>
+    <string name="data_unavailable_message">HEIFAスコアデータが利用できません。データが正しく読み込まれていることを確認してください。</string>
+    <string name="heifa_score_analysis">HEIFAスコア分析</string>
+    <string name="score_distribution">スコア分布</string>
+    <string name="score_distribution_desc">スコア分布分析によると、男性のHEIFAスコア平均は、ほとんどのカテゴリーで女性よりも低い傾向があります。</string>
+    <string name="component_analysis">成分分析</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="analysis">分析</string>
+    <string name="based_on_data">%1$d人の患者データに基づく</string>
+    <string name="recommendations">推奨事項</string>
+    <string name="no_recommendations">推奨事項はありません</string>
+    <string name="send">送信</string>
+</resources> 

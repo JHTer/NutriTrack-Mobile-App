@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriTrack</string>
+    
+    <!-- General -->
+    <string name="login">Log Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="cancel">Batal</string>
+    <string name="apply">Terapkan</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Padam</string>
+    <string name="edit">Edit</string>
+    <string name="next">Seterusnya</string>
+    <string name="back">Kembali</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">NutriTrack</string>
+    <string name="welcome_tagline">Rakan pemakanan peribadi anda</string>
+    <string name="disclaimer">Penafian</string>
+    <string name="disclaimer_text">NutriTrack menyediakan maklumat kesihatan dan pemakanan umum untuk tujuan pendidikan sahaja.</string>
+    <string name="about_nutritrack">Tentang NutriTrack</string>
+    <string name="about_dietitian">Jika anda ingin berjumpa Pakar Pemakanan Terakreditasi (APD), sila lawati Klinik Pemakanan/Dietetik Monash</string>
+    <string name="visit_monash">Lawati Klinik Pemakanan Monash</string>
+    
+    <!-- Settings -->
+    <string name="settings">Tetapan</string>
+    <string name="language">Bahasa</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="notification">Notifikasi</string>
+    <string name="theme">Tema</string>
+    <string name="about">Tentang</string>
+    <string name="privacy_policy">Dasar Privasi</string>
+    <string name="terms_of_service">Terma Perkhidmatan</string>
+    <string name="logout">Log Keluar</string>
+    
+    <!-- Settings Screen Additional -->
+    <string name="profile_information">Maklumat Profil</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="phone_number">Nombor Telefon</string>
+    <string name="not_available">Tidak tersedia</string>
+    <string name="change_password">Tukar Kata Laluan</string>
+    <string name="new_password">Kata Laluan Baharu</string>
+    <string name="confirm_password">Sahkan Kata Laluan</string>
+    <string name="password_requirements">Keperluan Kata Laluan:</string>
+    <string name="req_min_length">Sekurang-kurangnya 8 aksara</string>
+    <string name="req_uppercase">Sekurang-kurangnya satu huruf besar</string>
+    <string name="req_number">Sekurang-kurangnya satu nombor</string>
+    <string name="req_special">Sekurang-kurangnya satu aksara khas</string>
+    <string name="req_match">Kata laluan sepadan</string>
+    <string name="account_details">Butiran Akaun</string>
+    <string name="user_id">ID Pengguna</string>
+    <string name="gender">Jantina</string>
+    <string name="not_specified">Tidak dinyatakan</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    <string name="account">Akaun</string>
+    <string name="clinician_view">Paparan Doktor</string>
+    <string name="about_nutritrack_desc">NutriTrack membantu anda memantau dan meningkatkan tabiat pemakanan anda melalui wawasan dan cadangan yang diperibadikan.</string>
+    <string name="version">Versi 1.0.0</string>
+    <string name="clinician_login">Log Masuk Doktor</string>
+    <string name="clinician_access_key">Masukkan kunci akses doktor untuk meneruskan:</string>
+    <string name="access_key">Kunci Akses</string>
+    <string name="invalid_key">Kunci akses tidak sah. Sila cuba lagi.</string>
+    
+    <!-- NutriCoach Screen -->
+    <string name="nutricoach_title">NutriCoach</string>
+    <string name="enter_fruit_name">Masukkan nama buah</string>
+    <string name="search">Cari</string>
+    <string name="try_again">Cuba Lagi</string>
+    <string name="network_error">⚠️ Ralat Rangkaian</string>
+    <string name="search_fruit_placeholder">Cari buah untuk melihat fakta pemakanan dan bantu meningkatkan diet anda!</string>
+    <string name="optimal_fruit_congrats">Tahniah! Pengambilan buah anda adalah optimum.</string>
+    <string name="optimal_fruit_continue">Teruskan menikmati pelbagai buah untuk diet yang sihat!</string>
+    <string name="ai_nutrition_tips">Petua Pemakanan AI</string>
+    <string name="view_tips_history">Lihat Sejarah Petua</string>
+    <string name="generate_tip_placeholder">Jana petua peribadi untuk membantu meningkatkan pemakanan anda!</string>
+    <string name="generate_new_tip">Jana Petua Baru</string>
+    <string name="tips_history_title">Sejarah Petua Pemakanan Anda</string>
+    <string name="no_tips_saved">Tiada petua disimpan lagi. Jana petua pertama anda!</string>
+    <string name="category_label">Kategori: %1$s</string>
+    <string name="close">Tutup</string>
+    
+    <!-- Fruit Info Card -->
+    <string name="fruit_family">Keluarga: %1$s | Genus: %2$s</string>
+    <string name="nutrition_calories">Kalori</string>
+    <string name="nutrition_carbs">Karbohidrat</string>
+    <string name="nutrition_fiber">Serat</string>
+    <string name="nutrition_sugar">Gula</string>
+    <string name="nutrition_protein">Protein</string>
+    <string name="nutrition_fat">Lemak</string>
+    <string name="calories_unit">%1$s kcal</string>
+    <string name="grams_unit">%1$sg</string>
+    
+    <!-- AI Prompts -->
+    <string name="ai_instructions">Sila berikan analisis pemakanan berdasarkan maklumat berikut</string>
+    <string name="nutrition_analysis">Analisis Pemakanan</string>
+    <string name="food_suggestion">Cadangan Makanan</string>
+    
+    <!-- HomeScreen -->
+    <string name="loading_nutrition_data">Memuatkan data pemakanan anda…</string>
+    <string name="error_unknown">Ralat tidak diketahui telah berlaku</string>
+    <string name="action_try_again">Cuba Lagi</string>
+    <string name="greeting_hello">Halo, %1$s</string>
+    <string name="questionnaire_completed">Anda telah mengisi Soal Selidik Pengambilan Makanan anda, tetapi anda boleh mengubah butiran di sini:</string>
+    <string name="my_score">Skor Saya</string>
+    <string name="see_all_scores">Lihat semua skor</string>
+    <string name="your_food_quality_score">Skor Kualiti Makanan Anda</string>
+    <string name="what_is_food_quality_score">Apa itu Skor Kualiti Makanan?</string>
+    <string name="food_score_explanation_1">Skor Kualiti Makanan anda memberikan gambaran sekilas tentang bagaimana corak pemakanan anda selaras dengan garis panduan makanan yang ditetapkan, membantu anda mengenal pasti kekuatan dan peluang untuk penambahbaikan dalam diet anda.</string>
+    <string name="food_score_explanation_2">Pengukuran yang diperibadikan ini mempertimbangkan pelbagai kumpulan makanan, memberikan anda pandangan komprehensif tentang seluruh diet anda.</string>
+    <string name="error_load_nutrition_data">Tidak dapat memuatkan data pemakanan. Sila cuba lagi kemudian.</string>
+    <string name="error_occurred">Ralat telah berlaku: %1$s</string>
+    <string name="score_format">%1$d/100</string>
+    <string name="default_user">Pengguna</string>
+    <string name="gender_male">Lelaki</string>
+    <string name="home">Utama</string>
+    <string name="insights">Wawasan</string>
+    <string name="nutricoach">NutriCoach</string>
+    
+    <!-- QuestionnaireScreen -->
+    <string name="questionnaire_title">Soal Selidik Pengambilan Makanan</string>
+    <string name="food_categories">Kategori Makanan</string>
+    <string name="food_categories_hint">Pilih kategori makanan yang biasa anda makan:</string>
+    <string name="food_category_fruits">Buah-buahan</string>
+    <string name="food_category_vegetables">Sayur-sayuran</string>
+    <string name="food_category_grains">Bijirin</string>
+    <string name="food_category_red_meat">Daging Merah</string>
+    <string name="food_category_seafood">Makanan Laut</string>
+    <string name="food_category_poultry">Ayam</string>
+    <string name="food_category_fish">Ikan</string>
+    <string name="food_category_eggs">Telur</string>
+    <string name="food_category_nuts_seeds">Kekacang/Biji-bijian</string>
+    <string name="persona_selection">Pemilihan Persona</string>
+    <string name="persona_selection_hint">Pilih persona yang paling menggambarkan tabiat pemakanan anda:</string>
+    <string name="persona_select_prompt">Pilih persona anda</string>
+    <string name="persona_health_devotee">Peminat Kesihatan</string>
+    <string name="persona_mindful_eater">Pemakan Penuh Kesedaran</string>
+    <string name="persona_wellness_striver">Pejuang Kesejahteraan</string>
+    <string name="persona_balance_seeker">Pencari Keseimbangan</string>
+    <string name="persona_health_procrastinator">Penangguh Kesihatan</string>
+    <string name="persona_food_carefree">Tidak Peduli Makanan</string>
+    <string name="persona_health_devotee_desc">Saya bersemangat tentang pemakanan sihat &amp; kesihatan memainkan peranan besar dalam hidup saya. Saya menggunakan media sosial untuk mengikuti personaliti gaya hidup aktif atau mendapatkan resipi/idea senaman baru. Saya mungkin membeli makanan super atau mengikuti jenis diet tertentu. Saya suka berfikir saya sangat sihat.</string>
+    <string name="persona_mindful_eater_desc">Saya mempunyai kesedaran kesihatan dan menjadi sihat dan makan sihat adalah penting bagi saya. Walaupun kesihatan bermaksud berbeza untuk orang yang berbeza, saya membuat keputusan gaya hidup yang sedar tentang pemakanan berdasarkan apa yang saya percaya kesihatan bermaksud. Saya mencari resipi baru dan maklumat pemakanan sihat di media sosial.</string>
+    <string name="persona_wellness_striver_desc">Saya bercita-cita untuk menjadi sihat (tetapi kadang-kadang bergelut). Makan sihat adalah kerja keras! Saya telah cuba untuk memperbaiki diet saya, tetapi sentiasa menemui perkara yang menjadikannya sukar untuk bertahan dengan perubahan. Kadang-kadang saya perhatikan idea resipi atau petua makan sihat, dan jika ia kelihatan cukup mudah, saya akan mencubanya.</string>
+    <string name="persona_balance_seeker_desc">Saya cuba dan hidup gaya hidup yang seimbang, dan saya fikir semua makanan adalah okay dengan sederhana. Saya tidak seharusnya merasa bersalah tentang makan sepotong kek dari semasa ke semasa. Saya mendapat pelbagai inspirasi dari media sosial seperti mengetahui tentang restoran baru, resipi menyeronokkan dan kadang-kadang petua makan sihat.</string>
+    <string name="persona_health_procrastinator_desc">Saya sedang mempertimbangkan pemakanan sihat tetapi ia bukan keutamaan saya sekarang. Saya tahu asas tentang apa yang bermaksud menjadi sihat, tetapi ia tidak kelihatan relevan kepada saya sekarang. Saya telah mengambil beberapa langkah untuk menjadi lebih sihat tetapi saya tidak bermotivasi untuk menjadikannya keutamaan tinggi kerana saya mempunyai terlalu banyak perkara lain yang berlaku dalam hidup saya.</string>
+    <string name="persona_food_carefree_desc">Saya tidak kisah tentang pemakanan sihat. Saya tidak benar-benar melihat tujuannya dan saya tidak memikirkannya. Saya tidak benar-benar perhatikan petua pemakanan sihat atau resipi dan saya tidak kisah apa yang saya makan.</string>
+    <string name="best_fitting_persona">Persona paling sesuai</string>
+    <string name="show_options">Tunjukkan pilihan</string>
+    <string name="timings">Masa</string>
+    <string name="meal_time_question">Pada waktu hari apakah biasanya anda makan hidangan terbesar anda?</string>
+    <string name="sleep_time_question">Pada waktu hari apakah biasanya anda tidur pada waktu malam?</string>
+    <string name="wake_time_question">Pada waktu hari apakah biasanya anda bangun pada waktu pagi?</string>
+    <string name="select_time">Pilih masa</string>
+    <string name="time_validation_error">Sila periksa waktu makan dan tidur anda. Mereka mungkin bercanggah.</string>
+    <string name="select_persona">Pilih Persona Ini</string>
+    <string name="dismiss">Tutup</string>
+    <string name="save_with_icon">Simpan</string>
+    
+    <!-- InsightsScreen -->
+    <string name="insights_title">Wawasan</string>
+    <string name="loading_insights">Memuatkan wawasan pemakanan anda…</string>
+    <string name="food_quality_score">Skor Kualiti Makanan Anda</string>
+    <string name="score_out_of_100">daripada 100</string>
+    <string name="quality_poor">Lemah</string>
+    <string name="quality_fair">Sederhana</string>
+    <string name="quality_good">Baik</string>
+    <string name="quality_excellent">Cemerlang</string>
+    <string name="diet_quality_message">Kualiti diet anda adalah %1$s. %2$s</string>
+    <string name="category_breakdown">Pecahan Kategori</string>
+    <string name="category_vegetables">Sayur-sayuran</string>
+    <string name="category_fruits">Buah-buahan</string>
+    <string name="category_grains">Bijirin &amp; Sereal</string>
+    <string name="category_whole_grains">Bijirin Penuh</string>
+    <string name="category_dairy">Tenusu</string>
+    <string name="category_meat">Daging &amp; Alternatif</string>
+    <string name="category_water">Air</string>
+    <string name="category_unsaturated_fats">Lemak Tak Tepu</string>
+    <string name="category_sodium">Natrium</string>
+    <string name="category_sugar">Gula</string>
+    <string name="category_alcohol">Alkohol</string>
+    <string name="category_discretionary">Makanan Pilihan</string>
+    <string name="share_score">Kongsi Skor Saya</string>
+    <string name="share_score_title">Kongsi skor HEIFA anda</string>
+    <string name="share_score_template">Hai, saya baru sahaja mendapat skor HEIFA %1$d daripada 100 dengan aplikasi NutriTrack! Kualiti diet saya kini dinilai sebagai %2$s.</string>
+    <string name="improve_my_diet">Perbaiki diet saya!</string>
+    
+    <!-- Quality descriptions -->
+    <string name="quality_poor_desc">Terdapat ruang peningkatan yang ketara dalam pilihan pemakanan anda.</string>
+    <string name="quality_fair_desc">Diet anda mempunyai beberapa elemen sihat, tetapi boleh diperbaiki dalam bidang tertentu.</string>
+    <string name="quality_good_desc">Anda membuat pilihan sihat dengan ruang untuk peningkatan.</string>
+    <string name="quality_excellent_desc">Anda membuat pilihan pemakanan cemerlang yang menyokong kesihatan optimum.</string>
+    
+    <!-- ClinicianScreen -->
+    <string name="clinician_dashboard">Papan Pemuka Pakar Klinikal</string>
+    <string name="welcome_back">Selamat kembali, Pakar Klinikal</string>
+    <string name="heifa_score_averages">Purata Skor HEIFA</string>
+    <string name="view_details">Lihat Butiran</string>
+    <string name="average_heifa_score">Purata Skor HEIFA</string>
+    <string name="loading_score">Memuatkan skor...</string>
+    <string name="ai_consultant">Perunding AI</string>
+    <string name="about_ai_consultant">Mengenai Perunding AI</string>
+    <string name="ai_consultant_info">Perunding AI ini dikuasakan oleh Gemini 1.5 Flash dan direka untuk menjawab soalan berkaitan pemakanan sahaja. Ia boleh memberikan pandangan tentang skor HEIFA, corak pemakanan, dan cadangan nutrisi berdasarkan data pesakit yang tersedia dalam sistem. Untuk nasihat perubatan atau diagnosis pesakit tertentu, sila rujuk profesional kesihatan yang sesuai.</string>
+    <string name="got_it">Faham</string>
+    <string name="ask_about_heifa">Tanya tentang skor HEIFA</string>
+    <string name="only_nutrition_questions">Hanya soalan berkaitan pemakanan akan dijawab</string>
+    <string name="ai_assistant">Pembantu AI</string>
+    <string name="typing">Menaip</string>
+    <string name="suggested_questions">Soalan yang Dicadangkan</string>
+    <string name="ai_powered_analysis">Analisis Diperkasakan AI</string>
+    <string name="discover_patterns">Temui Corak Data</string>
+    <string name="analyzing_data">Menganalisis Data...</string>
+    <string name="button_pressed">Butang ditekan. Menunggu analisis bermula...</string>
+    <string name="analysis_error">Ralat Analisis</string>
+    <string name="ai_analysis_insights">Pandangan Analisis AI</string>
+    <string name="insights_found">%1$d pandangan ditemui</string>
+    <string name="no_insights_available">Tiada Pandangan Tersedia</string>
+    <string name="no_insights_description">Gunakan ciri Analisis Diperkasakan AI untuk menjana pandangan pemakanan dari data pesakit.</string>
+    <string name="view_details_button">Lihat Butiran</string>
+    <string name="new_insight">Pandangan Baharu</string>
+    <string name="new_label">Baru</string>
+    <string name="data_unavailable">Data Tidak Tersedia</string>
+    <string name="data_unavailable_message">Data skor HEIFA tidak tersedia. Sila pastikan data dimuat dengan betul.</string>
+    <string name="heifa_score_analysis">Analisis Skor HEIFA</string>
+    <string name="score_distribution">Taburan Skor</string>
+    <string name="score_distribution_desc">Analisis taburan skor menunjukkan purata skor HEIFA lelaki cenderung lebih rendah daripada skor wanita di kebanyakan kategori.</string>
+    <string name="component_analysis">Analisis Komponen</string>
+    <string name="male">Lelaki</string>
+    <string name="female">Perempuan</string>
+    <string name="analysis">Analisis</string>
+    <string name="based_on_data">Berdasarkan data daripada %1$d pesakit</string>
+    <string name="recommendations">Cadangan</string>
+    <string name="no_recommendations">Tiada cadangan tersedia</string>
+</resources> 

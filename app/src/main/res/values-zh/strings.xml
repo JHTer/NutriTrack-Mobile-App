@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriTrack</string>
+    
+    <!-- General -->
+    <string name="login">登录</string>
+    <string name="signup">注册</string>
+    <string name="cancel">取消</string>
+    <string name="apply">应用</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="next">下一步</string>
+    <string name="back">返回</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">NutriTrack</string>
+    <string name="welcome_tagline">您的个人营养伴侣</string>
+    <string name="disclaimer">免责声明</string>
+    <string name="disclaimer_text">NutriTrack仅为教育目的提供一般健康和营养信息。</string>
+    <string name="about_nutritrack">关于NutriTrack</string>
+    <string name="about_dietitian">如果您想咨询认证执业营养师(APD)，请访问莫纳什营养/饮食诊所</string>
+    <string name="visit_monash">访问莫纳什营养诊所</string>
+    
+    <!-- Settings -->
+    <string name="settings">设置</string>
+    <string name="language">语言</string>
+    <string name="select_language">选择语言</string>
+    <string name="notification">通知</string>
+    <string name="theme">主题</string>
+    <string name="about">关于</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="terms_of_service">服务条款</string>
+    <string name="logout">退出登录</string>
+    
+    <!-- Settings Screen Additional -->
+    <string name="profile_information">个人资料信息</string>
+    <string name="username">用户名</string>
+    <string name="phone_number">电话号码</string>
+    <string name="not_available">不可用</string>
+    <string name="change_password">修改密码</string>
+    <string name="new_password">新密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="password_requirements">密码要求：</string>
+    <string name="req_min_length">至少8个字符</string>
+    <string name="req_uppercase">至少一个大写字母</string>
+    <string name="req_number">至少一个数字</string>
+    <string name="req_special">至少一个特殊字符</string>
+    <string name="req_match">密码匹配</string>
+    <string name="account_details">账户详情</string>
+    <string name="user_id">用户ID</string>
+    <string name="gender">性别</string>
+    <string name="not_specified">未指定</string>
+    <string name="save_changes">保存更改</string>
+    <string name="account">账户</string>
+    <string name="clinician_view">临床医师视图</string>
+    <string name="about_nutritrack_desc">NutriTrack通过个性化的见解和建议帮助您监测和改善饮食习惯。</string>
+    <string name="version">版本 1.0.0</string>
+    <string name="clinician_login">临床医师登录</string>
+    <string name="clinician_access_key">请输入临床医师访问密钥以继续：</string>
+    <string name="access_key">访问密钥</string>
+    <string name="invalid_key">无效的访问密钥。请重试。</string>
+    
+    <!-- NutriCoach Screen -->
+    <string name="nutricoach_title">营养教练</string>
+    <string name="enter_fruit_name">输入水果名称</string>
+    <string name="search">搜索</string>
+    <string name="try_again">重试</string>
+    <string name="network_error">⚠️ 网络错误</string>
+    <string name="search_fruit_placeholder">搜索水果以查看营养成分，帮助改善您的饮食！</string>
+    <string name="optimal_fruit_congrats">做得好！您的水果摄入量是最佳的。</string>
+    <string name="optimal_fruit_continue">继续享用各种水果，保持健康饮食！</string>
+    <string name="ai_nutrition_tips">AI营养贴士</string>
+    <string name="view_tips_history">查看贴士历史</string>
+    <string name="generate_tip_placeholder">生成个性化贴士，帮助改善您的营养！</string>
+    <string name="generate_new_tip">生成新贴士</string>
+    <string name="tips_history_title">您的营养贴士历史</string>
+    <string name="no_tips_saved">尚未保存贴士。生成您的第一个贴士！</string>
+    <string name="category_label">类别: %1$s</string>
+    <string name="close">关闭</string>
+    
+    <!-- Fruit Info Card -->
+    <string name="fruit_family">科: %1$s | 属: %2$s</string>
+    <string name="nutrition_calories">卡路里</string>
+    <string name="nutrition_carbs">碳水化合物</string>
+    <string name="nutrition_fiber">纤维</string>
+    <string name="nutrition_sugar">糖</string>
+    <string name="nutrition_protein">蛋白质</string>
+    <string name="nutrition_fat">脂肪</string>
+    <string name="calories_unit">%1$s 卡路里</string>
+    <string name="grams_unit">%1$s克</string>
+    
+    <!-- AI Prompts -->
+    <string name="ai_instructions">请根据以下信息提供营养分析</string>
+    <string name="nutrition_analysis">营养分析</string>
+    <string name="food_suggestion">食物建议</string>
+    
+    <!-- HomeScreen -->
+    <string name="loading_nutrition_data">正在加载营养数据…</string>
+    <string name="error_unknown">发生未知错误</string>
+    <string name="action_try_again">重试</string>
+    <string name="greeting_hello">你好，%1$s</string>
+    <string name="questionnaire_completed">您已经填写了食物摄入问卷，您可以在这里更改详细信息：</string>
+    <string name="my_score">我的分数</string>
+    <string name="see_all_scores">查看所有分数</string>
+    <string name="your_food_quality_score">您的食物质量评分</string>
+    <string name="what_is_food_quality_score">什么是食物质量评分？</string>
+    <string name="food_score_explanation_1">您的食物质量评分提供了您的饮食模式与既定食物指南的符合程度的快照，帮助您识别饮食中的优势和改进机会。</string>
+    <string name="food_score_explanation_2">个性化的评分考虑了各种食物组别，为您提供全面的饮食视图。</string>
+    <string name="error_load_nutrition_data">无法加载营养数据。请稍后再试。</string>
+    <string name="error_occurred">出现错误：%1$s</string>
+    <string name="score_format">%1$d/100</string>
+    <string name="default_user">用户</string>
+    <string name="gender_male">男性</string>
+    <string name="home">首页</string>
+    <string name="insights">洞察</string>
+    <string name="nutricoach">营养教练</string>
+    
+    <!-- QuestionnaireScreen -->
+    <string name="questionnaire_title">食物摄入问卷</string>
+    <string name="food_categories">食物类别</string>
+    <string name="food_categories_hint">选择您通常食用的食物类别：</string>
+    <string name="food_category_fruits">水果</string>
+    <string name="food_category_vegetables">蔬菜</string>
+    <string name="food_category_grains">谷物</string>
+    <string name="food_category_red_meat">红肉</string>
+    <string name="food_category_seafood">海鲜</string>
+    <string name="food_category_poultry">家禽</string>
+    <string name="food_category_fish">鱼类</string>
+    <string name="food_category_eggs">鸡蛋</string>
+    <string name="food_category_nuts_seeds">坚果/种子</string>
+    <string name="persona_selection">个性选择</string>
+    <string name="persona_selection_hint">选择最能描述您饮食习惯的个性：</string>
+    <string name="persona_select_prompt">选择您的个性</string>
+    <string name="persona_health_devotee">健康信徒</string>
+    <string name="persona_mindful_eater">正念进食者</string>
+    <string name="persona_wellness_striver">健康追求者</string>
+    <string name="persona_balance_seeker">平衡寻求者</string>
+    <string name="persona_health_procrastinator">健康拖延者</string>
+    <string name="persona_food_carefree">饮食无忧者</string>
+    <string name="persona_health_devotee_desc">我对健康饮食充满热情，健康在我的生活中扮演重要角色。我使用社交媒体关注积极生活方式的人物或获取新的食谱/锻炼想法。我甚至可能购买超级食品或遵循特定的饮食方式。我喜欢认为自己非常健康。</string>
+    <string name="persona_mindful_eater_desc">我有健康意识，保持健康和健康饮食对我很重要。虽然健康对不同的人意味着不同的事情，但我根据我认为健康的含义做出有意识的饮食生活方式决定。我在社交媒体上寻找新的食谱和健康饮食信息。</string>
+    <string name="persona_wellness_striver_desc">我渴望健康（但有时会挣扎）。健康饮食是一项艰苦的工作！我尝试过改善我的饮食，但总是发现使坚持改变变得困难的事情。有时我会注意到食谱创意或健康饮食技巧，如果看起来足够简单，我会尝试一下。</string>
+    <string name="persona_balance_seeker_desc">我尝试过平衡的生活方式，我认为所有食物适度食用都没问题。我不应该因为偶尔吃一块蛋糕而感到内疚。我从社交媒体获得各种灵感，如了解新餐厅、有趣的食谱，有时也会获得健康饮食提示。</string>
+    <string name="persona_health_procrastinator_desc">我正在考虑健康饮食，但目前这不是我的优先事项。我知道健康的基本含义，但目前似乎与我无关。我已经采取了一些步骤变得更健康，但我没有动力将其作为高优先级，因为我的生活中有太多其他事情。</string>
+    <string name="persona_food_carefree_desc">我不在意健康饮食。我真的不明白这有什么意义，我也不去想它。我真的不注意健康饮食提示或食谱，我不在乎我吃什么。</string>
+    <string name="best_fitting_persona">最适合的个性</string>
+    <string name="show_options">显示选项</string>
+    <string name="timings">时间安排</string>
+    <string name="meal_time_question">您通常大约在一天中的什么时间吃最大的一餐？</string>
+    <string name="sleep_time_question">您通常大约在晚上什么时间入睡？</string>
+    <string name="wake_time_question">您通常大约在早上什么时间醒来？</string>
+    <string name="select_time">选择时间</string>
+    <string name="time_validation_error">请检查您的用餐和睡眠时间。它们可能有冲突。</string>
+    <string name="select_persona">选择此个性</string>
+    <string name="dismiss">关闭</string>
+    <string name="save_with_icon">保存</string>
+    
+    <!-- InsightsScreen -->
+    <string name="insights_title">洞察</string>
+    <string name="loading_insights">正在加载您的营养洞察…</string>
+    <string name="food_quality_score">您的食物质量评分</string>
+    <string name="score_out_of_100">满分100</string>
+    <string name="quality_poor">较差</string>
+    <string name="quality_fair">一般</string>
+    <string name="quality_good">良好</string>
+    <string name="quality_excellent">优秀</string>
+    <string name="diet_quality_message">您的饮食质量为%1$s。%2$s</string>
+    <string name="category_breakdown">类别明细</string>
+    <string name="category_vegetables">蔬菜</string>
+    <string name="category_fruits">水果</string>
+    <string name="category_grains">谷物与谷类食品</string>
+    <string name="category_whole_grains">全谷物</string>
+    <string name="category_dairy">乳制品</string>
+    <string name="category_meat">肉类与替代品</string>
+    <string name="category_water">水</string>
+    <string name="category_unsaturated_fats">不饱和脂肪</string>
+    <string name="category_sodium">钠</string>
+    <string name="category_sugar">糖</string>
+    <string name="category_alcohol">酒精</string>
+    <string name="category_discretionary">自由选择食品</string>
+    <string name="share_score">分享我的评分</string>
+    <string name="share_score_title">分享您的HEIFA评分</string>
+    <string name="share_score_template">嗨，我刚刚在NutriTrack应用中获得了100分中的%1$d分HEIFA评分！我的饮食质量目前被评为%2$s。</string>
+    <string name="improve_my_diet">改善我的饮食！</string>
+    
+    <!-- Quality descriptions -->
+    <string name="quality_poor_desc">您的饮食选择有很大的改善空间。</string>
+    <string name="quality_fair_desc">您的饮食中有一些健康元素，但在某些方面还可以改进。</string>
+    <string name="quality_good_desc">您正在做出健康的选择，还有改进的空间。</string>
+    <string name="quality_excellent_desc">您正在做出支持最佳健康的出色饮食选择。</string>
+    
+    <!-- ClinicianScreen -->
+    <string name="clinician_dashboard">临床医师仪表板</string>
+    <string name="welcome_back">欢迎回来，临床医师</string>
+    <string name="heifa_score_averages">HEIFA评分平均值</string>
+    <string name="view_details">查看详情</string>
+    <string name="average_heifa_score">平均HEIFA评分</string>
+    <string name="loading_score">加载评分中...</string>
+    <string name="ai_consultant">AI顾问</string>
+    <string name="about_ai_consultant">关于AI顾问</string>
+    <string name="ai_consultant_info">此AI顾问由Gemini 1.5 Flash提供技术支持，仅设计用于回答与营养相关的问题。它可以根据系统中可用的患者数据提供有关HEIFA评分、饮食模式和营养建议的见解。对于医疗建议或特定患者诊断，请咨询适当的医疗专业人员。</string>
+    <string name="got_it">明白了</string>
+    <string name="ask_about_heifa">询问HEIFA评分</string>
+    <string name="only_nutrition_questions">只回答与营养相关的问题</string>
+    <string name="ai_assistant">AI助手</string>
+    <string name="typing">正在输入</string>
+    <string name="suggested_questions">建议的问题</string>
+    <string name="ai_powered_analysis">AI驱动分析</string>
+    <string name="discover_patterns">发现数据模式</string>
+    <string name="analyzing_data">正在分析数据...</string>
+    <string name="button_pressed">按钮已按下。等待分析开始...</string>
+    <string name="analysis_error">分析错误</string>
+    <string name="ai_analysis_insights">AI分析见解</string>
+    <string name="insights_found">找到%1$d条见解</string>
+    <string name="no_insights_available">无可用见解</string>
+    <string name="no_insights_description">使用AI驱动分析功能从患者数据生成营养见解。</string>
+    <string name="view_details_button">查看详情</string>
+    <string name="new_insight">新见解</string>
+    <string name="new_label">新</string>
+    <string name="data_unavailable">数据不可用</string>
+    <string name="data_unavailable_message">HEIFA评分数据不可用。请确保数据已正确加载。</string>
+    <string name="heifa_score_analysis">HEIFA评分分析</string>
+    <string name="score_distribution">评分分布</string>
+    <string name="score_distribution_desc">评分分布分析显示，男性的平均HEIFA评分在大多数类别中低于女性评分。</string>
+    <string name="component_analysis">组件分析</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="analysis">分析</string>
+    <string name="based_on_data">基于%1$d名患者的数据</string>
+    <string name="recommendations">建议</string>
+    <string name="no_recommendations">无可用建议</string>
+</resources> 

@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    
+    <!-- General -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="send">Send</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">NutriTrack</string>
+    <string name="welcome_tagline">Your personal nutrition companion</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimer_text">NutriTrack provides general health and nutrition information for educational purposes only.</string>
+    <string name="about_nutritrack">About NutriTrack</string>
+    <string name="about_dietitian">If you\'d like to an Accredited Practicing Dietitian (APD), please visit the Monash Nutrition/Dietetics Clinic</string>
+    <string name="visit_monash">Visit Monash Nutrition Clinic</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="notification">Notifications</string>
+    <string name="theme">Theme</string>
+    <string name="about">About</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Settings Screen Additional -->
+    <string name="profile_information">Profile Information</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="not_available">Not available</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_requirements">Password Requirements:</string>
+    <string name="req_min_length">At least 8 characters</string>
+    <string name="req_uppercase">At least one uppercase letter</string>
+    <string name="req_number">At least one number</string>
+    <string name="req_special">At least one special character</string>
+    <string name="req_match">Passwords match</string>
+    <string name="account_details">Account Details</string>
+    <string name="user_id">User ID</string>
+    <string name="gender">Gender</string>
+    <string name="not_specified">Not specified</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="account">Account</string>
+    <string name="clinician_view">Clinician View</string>
+    <string name="about_nutritrack_desc">NutriTrack helps you monitor and improve your dietary habits through personalized insights and recommendations.</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="clinician_login">Clinician Login</string>
+    <string name="clinician_access_key">Enter the clinician access key to continue:</string>
+    <string name="access_key">Access Key</string>
+    <string name="invalid_key">Invalid access key. Please try again.</string>
+    
+    <!-- NutriCoach Screen -->
+    <string name="nutricoach_title">NutriCoach</string>
+    <string name="enter_fruit_name">Enter a fruit name</string>
+    <string name="search">Search</string>
+    <string name="try_again">Try Again</string>
+    <string name="network_error">⚠️ Network Error</string>
+    <string name="search_fruit_placeholder">Search for a fruit to see nutrition facts and help improve your diet!</string>
+    <string name="optimal_fruit_congrats">Great job! Your fruit intake is optimal.</string>
+    <string name="optimal_fruit_continue">Continue enjoying a variety of fruits for a healthy diet!</string>
+    <string name="ai_nutrition_tips">AI Nutrition Tips</string>
+    <string name="view_tips_history">View Tips History</string>
+    <string name="generate_tip_placeholder">Generate a personalized tip to help improve your nutrition!</string>
+    <string name="generate_new_tip">Generate New Tip</string>
+    <string name="tips_history_title">Your Nutrition Tips History</string>
+    <string name="no_tips_saved">No tips saved yet. Generate your first tip!</string>
+    <string name="category_label">Category: %1$s</string>
+    <string name="close">Close</string>
+    
+    <!-- Fruit Info Card -->
+    <string name="fruit_family">Family: %1$s | Genus: %2$s</string>
+    <string name="nutrition_calories">Calories</string>
+    <string name="nutrition_carbs">Carbohydrates</string>
+    <string name="nutrition_fiber">Fiber</string>
+    <string name="nutrition_sugar">Sugar</string>
+    <string name="nutrition_protein">Protein</string>
+    <string name="nutrition_fat">Fat</string>
+    <string name="calories_unit">%1$s kcal</string>
+    <string name="grams_unit">%1$sg</string>
+    
+    <!-- AI Prompts -->
+    <string name="ai_instructions">Please provide nutritional analysis based on the following information</string>
+    <string name="nutrition_analysis">Nutrition Analysis</string>
+    <string name="food_suggestion">Food Suggestions</string>
+    
+    <!-- HomeScreen -->
+    <string name="loading_nutrition_data">Loading your nutrition data…</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="action_try_again">Try Again</string>
+    <string name="greeting_hello">Hello, %1$s</string>
+    <string name="questionnaire_completed">You\'ve already filled in your Food Intake Questionnaire, but you can change details here:</string>
+    <string name="my_score">My Score</string>
+    <string name="see_all_scores">See all scores</string>
+    <string name="your_food_quality_score">Your Food Quality Score</string>
+    <string name="what_is_food_quality_score">What is the Food Quality Score?</string>
+    <string name="food_score_explanation_1">Your Food Quality Score provides a snapshot of how well your eating pattern aligns with established food guidelines, helping you identify your strengths and opportunities for improvement in your diet.</string>
+    <string name="food_score_explanation_2">It\'s personalized measurement considers various food groups, giving you a comprehensive view of your whole diet.</string>
+    <string name="error_load_nutrition_data">Could not load nutrition data. Please try again later.</string>
+    <string name="error_occurred">An error occurred: %1$s</string>
+    <string name="score_format">%1$d/100</string>
+    <string name="default_user">User</string>
+    <string name="gender_male">Male</string>
+    <string name="home">Home</string>
+    <string name="insights">Insights</string>
+    <string name="nutricoach">NutriCoach</string>
+    
+    <!-- QuestionnaireScreen -->
+    <string name="questionnaire_title">Food Intake Questionnaire</string>
+    <string name="food_categories">Food Categories</string>
+    <string name="food_categories_hint">Select the food categories you typically consume:</string>
+    <string name="food_category_fruits">Fruits</string>
+    <string name="food_category_vegetables">Vegetables</string>
+    <string name="food_category_grains">Grains</string>
+    <string name="food_category_red_meat">Red Meat</string>
+    <string name="food_category_seafood">Seafood</string>
+    <string name="food_category_poultry">Poultry</string>
+    <string name="food_category_fish">Fish</string>
+    <string name="food_category_eggs">Eggs</string>
+    <string name="food_category_nuts_seeds">Nuts/Seeds</string>
+    <string name="persona_selection">Persona Selection</string>
+    <string name="persona_selection_hint">Select the persona that best describes your eating habits:</string>
+    <string name="persona_select_prompt">Select your persona</string>
+    <string name="persona_health_devotee">Health Devotee</string>
+    <string name="persona_mindful_eater">Mindful Eater</string>
+    <string name="persona_wellness_striver">Wellness Striver</string>
+    <string name="persona_balance_seeker">Balance Seeker</string>
+    <string name="persona_health_procrastinator">Health Procrastinator</string>
+    <string name="persona_food_carefree">Food Carefree</string>
+    <string name="persona_health_devotee_desc">I\'m passionate about healthy eating &amp; health plays a big part in my life. I use social media to follow active lifestyle personalities or get new recipes/exercise ideas. I may even buy superfoods or follow a particular type of diet. I like to think I am super healthy.</string>
+    <string name="persona_mindful_eater_desc">I\'m health-conscious and being healthy and eating healthy is important to me. Although health means different things to different people, I make conscious lifestyle decisions about eating based on what I believe healthy means. I look for new recipes and healthy eating information on social media.</string>
+    <string name="persona_wellness_striver_desc">I aspire to be healthy (but struggle sometimes). Healthy eating is hard work! I\'ve tried to improve my diet, but always find things that make it difficult to stick with the changes. Sometimes I notice recipe ideas or healthy eating hacks, and if it seems easy enough, I\'ll give it a go.</string>
+    <string name="persona_balance_seeker_desc">I try and live a balanced lifestyle, and I think that all foods are okay in moderation. I shouldn\'t have to feel guilty about eating a piece of cake now and again. I get all sorts of inspiration from social media like finding out about new restaurants, fun recipes and sometimes healthy eating tips.</string>
+    <string name="persona_health_procrastinator_desc">I\'m contemplating healthy eating but it\'s not a priority for me right now. I know the basics about what it means to be healthy, but it doesn\'t seem relevant to me right now. I have taken a few steps to be healthier but I am not motivated to make it a high priority because I have too many other things going on in my life.</string>
+    <string name="persona_food_carefree_desc">I\'m not bothered about healthy eating. I don\'t really see the point and I don\'t think about it. I don\'t really notice healthy eating tips or recipes and I don\'t care what I eat.</string>
+    <string name="best_fitting_persona">Best-fitting persona</string>
+    <string name="show_options">Show options</string>
+    <string name="timings">Timings</string>
+    <string name="meal_time_question">What time of day approx. do you normally eat your biggest meal?</string>
+    <string name="sleep_time_question">What time of day approx. do you go to sleep at night?</string>
+    <string name="wake_time_question">What time of day approx. do you wake up in the morning?</string>
+    <string name="select_time">Select time</string>
+    <string name="time_validation_error">Please check your meal and sleep times. They may conflict.</string>
+    <string name="select_persona">Select this Persona</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="save_with_icon">Save</string>
+    
+    <!-- InsightsScreen -->
+    <string name="insights_title">Insights</string>
+    <string name="loading_insights">Loading your nutrition insights…</string>
+    <string name="food_quality_score">Your Food Quality Score</string>
+    <string name="score_out_of_100">out of 100</string>
+    <string name="quality_poor">Poor</string>
+    <string name="quality_fair">Fair</string>
+    <string name="quality_good">Good</string>
+    <string name="quality_excellent">Excellent</string>
+    <string name="diet_quality_message">Your diet quality is %1$s. %2$s</string>
+    <string name="category_breakdown">Category Breakdown</string>
+    <string name="category_vegetables">Vegetables</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_grains">Grains &amp; Cereals</string>
+    <string name="category_whole_grains">Whole Grains</string>
+    <string name="category_dairy">Dairy</string>
+    <string name="category_meat">Meat &amp; Alternatives</string>
+    <string name="category_water">Water</string>
+    <string name="category_unsaturated_fats">Unsaturated Fats</string>
+    <string name="category_sodium">Sodium</string>
+    <string name="category_sugar">Sugar</string>
+    <string name="category_alcohol">Alcohol</string>
+    <string name="category_discretionary">Discretionary Foods</string>
+    <string name="share_score">Share My Score</string>
+    <string name="share_score_title">Share your HEIFA score</string>
+    <string name="share_score_template">Hi, I just got a HEIFA score of %1$d out of 100 with the NutriTrack app! My diet quality is currently rated as %2$s.</string>
+    <string name="improve_my_diet">Improve my diet!</string>
+    
+    <!-- Quality descriptions -->
+    <string name="quality_poor_desc">There\'s significant room for improvement in your dietary choices.</string>
+    <string name="quality_fair_desc">Your diet has some healthy elements, but could use improvement in certain areas.</string>
+    <string name="quality_good_desc">You\'re making healthy choices with room for improvement.</string>
+    <string name="quality_excellent_desc">You\'re making excellent dietary choices that support optimal health.</string>
+    
+    <!-- ClinicianScreen -->
+    <string name="clinician_dashboard">Clinician Dashboard</string>
+    <string name="welcome_back">Welcome back, Clinician</string>
+    <string name="heifa_score_averages">HEIFA Score Averages</string>
+    <string name="view_details">View Details</string>
+    <string name="average_heifa_score">Average HEIFA Score</string>
+    <string name="loading_score">Loading score...</string>
+    <string name="ai_consultant">AI Consultant</string>
+    <string name="about_ai_consultant">About AI Consultant</string>
+    <string name="ai_consultant_info">This AI consultant is powered by Gemini 1.5 Flash and is designed to answer nutrition-related questions only. It can provide insights on HEIFA scores, dietary patterns, and nutritional recommendations based on the patient data available in the system. For medical advice or specific patient diagnoses, please consult appropriate healthcare professionals.</string>
+    <string name="got_it">Got it</string>
+    <string name="ask_about_heifa">Ask about HEIFA scores</string>
+    <string name="only_nutrition_questions">Only nutrition-related questions will be answered</string>
+    <string name="ai_assistant">AI Assistant</string>
+    <string name="typing">Typing</string>
+    <string name="suggested_questions">Suggested Questions</string>
+    <string name="ai_powered_analysis">AI-Powered Analysis</string>
+    <string name="discover_patterns">Discover Data Patterns</string>
+    <string name="analyzing_data">Analyzing Data...</string>
+    <string name="button_pressed">Button pressed. Waiting for analysis to start...</string>
+    <string name="analysis_error">Analysis Error</string>
+    <string name="ai_analysis_insights">AI Analysis Insights</string>
+    <string name="insights_found">%1$d insights found</string>
+    <string name="no_insights_available">No Insights Available</string>
+    <string name="no_insights_description">Use the AI-Powered Analysis feature to generate nutrition insights from patient data.</string>
+    <string name="view_details_button">View Details</string>
+    <string name="new_insight">New Insight</string>
+    <string name="new_label">New</string>
+    <string name="data_unavailable">Data Unavailable</string>
+    <string name="data_unavailable_message">HEIFA score data is not available. Please ensure data is loaded properly.</string>
+    <string name="heifa_score_analysis">HEIFA Score Analysis</string>
+    <string name="score_distribution">Score Distribution</string>
+    <string name="score_distribution_desc">Score distribution analysis shows average male HEIFA scores trend lower than female scores across most categories.</string>
+    <string name="component_analysis">Component Analysis</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="analysis">Analysis</string>
+    <string name="based_on_data">Based on data from %1$d patients</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="no_recommendations">No recommendations available</string>
+</resources>
